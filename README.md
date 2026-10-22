@@ -2,7 +2,7 @@
 
 An interactive, single-page roadmap for going from Shopify developer to professional SEO consultant: every skill to learn, in order, with extra depth on technical, Shopify, ecommerce, international and AI search.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2EA44F?logo=githubpages&logoColor=white)](https://coderasraf.github.io/modern-seo-consultant/) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
 
 ## Overview
 
